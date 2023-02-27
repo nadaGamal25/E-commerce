@@ -1,0 +1,17 @@
+.cart-details img{
+    width: 4rem ;
+}
+.rowbottom{
+    background-color:#e94560;
+}
+.cart-details .cartTable{
+    overflow-x: scroll;
+}
+.cart-total{
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: rgb(43 52 69 / 10%) 0 4px 16px;
+    background-color: #f6f9fc;
+    overflow: hidden;
+
+}

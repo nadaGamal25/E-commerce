@@ -1,0 +1,22 @@
+.service{
+    text-align: center;
+}
+.service .img{
+    margin: auto;
+    padding: 0;
+    margin-bottom: 20px;
+}
+.service i{
+    font-size: 22px;
+}
+.service .product{
+    padding: 20px;
+}
+.service h3{
+    font-weight: 500;
+}
+.service p{
+    font-size: 15px;
+    margin-top: 10px;
+    color: grey;
+}

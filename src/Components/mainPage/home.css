@@ -1,0 +1,29 @@
+.home{
+    padding-top:20px ;
+}
+.homeSlide{
+    padding-left: 20px !important;
+}
+.homeSlide h1{
+    font-size: 45px;
+}
+.homeSlide p{
+    margin: 20px 0;
+}
+.btn-visit{
+    background-color: #e94560 !important;
+    color:#fff !important;
+}
+.btn-visit:hover{
+    background-color: #e94560;
+    color:#fff;
+}
+.homeSlide .left{
+    width: 70%;
+}
+.homeSlide .right{
+    width:30%
+}
+.homeSlide .box img{
+    width: 100%;
+}

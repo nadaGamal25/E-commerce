@@ -1,0 +1,15 @@
+
+.newicon{
+    width: 40px;
+}
+.newarrival h3{
+    font-weight: 500;
+}
+.newarrival .box span{
+    font-size: 15px;
+    font-weight: 500;
+    color: #e94560;
+}
+.newarrival .box img{
+    border-radius: 8px;
+}
